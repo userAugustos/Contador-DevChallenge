@@ -28,7 +28,6 @@
 Seu desafio é criar um contador (com dias, horas, minutos e segundos), a partir de uma data definida pelo usuário! O modelo final está disponível na pasta "design"
 
 <img src="https://i.ibb.co/HhNTTzB/mockuper-6.png" width="450" height="350">
-<img src="https://i.ibb.co/9cMFW5s/mockuper-7.png" width="450" height="350">
 
 # Resultado do Contador finalizado por Felipe Augustos
 
@@ -40,3 +39,6 @@ HTML<br>
 CSS<br>
 
 Este desafio da DevChallenge fornecido pela <a href="https://github.com/Lorenalgm">Lorena</a> Foi finalizado por <a href="https://www.linkedin.com/in/felipe-augustos-a3292b1a1/">Felipe Augustos</a>
+
+Give a ⭐️ if you like this project!
+And if you think this code could be better, fork this project or call me in E-mail or DM :)
