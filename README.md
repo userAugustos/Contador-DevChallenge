@@ -27,10 +27,12 @@
 # Desafio
 Seu desafio é criar um contador (com dias, horas, minutos e segundos), a partir de uma data definida pelo usuário! O modelo final está disponível na pasta "design"
 
-
-
 <img src="https://i.ibb.co/HhNTTzB/mockuper-6.png" width="450" height="350">
 <img src="https://i.ibb.co/9cMFW5s/mockuper-7.png" width="450" height="350">
+
+# Resultado do Contador finalizado por Felipe Augustos
+
+![count-down](https://user-images.githubusercontent.com/47693479/87365883-bf3fbb00-c54d-11ea-9715-aeab8199c43a.gif)
 
 # Techs: 
 Javascript<br>
